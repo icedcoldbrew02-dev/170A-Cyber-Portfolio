@@ -69,6 +69,10 @@ Technical reports, operational writeups, and cyber lab documentation.
 ### 07-notes
 Study notes, references, development plans, and 170A preparation material.
 
+## Disclaimer
+
+This repository is intended for educational and professional development purposes only. All lab activities are conducted within authorized training environments such as Hack The Box, personal virtualized lab systems, and other legal cybersecurity training platforms.
+
 ## Long-Term Goals
 - Develop technical cyber operations capability
 - Improve Linux proficiency
